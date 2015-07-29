@@ -41,5 +41,16 @@
   "image/x-rgb",
   "image/x-xbitmap",
   "image/x-xpixmap",
-  "image/x-xwindowdump"
+  "image/x-xwindowdump",
+  "font/eot",
+  "font/truetype",
+  "font/opentype",
+  "application/vnd.ms-fontobject",
+  "application/x-font-woff",
+  "application/x-font-ttf",
+  "application/x-font-truetype",
+  "application/x-font-opentype",
+  "application/font-woff",
+  "application/font-sfnt",
+  "application/vnd.ms-fontobject"
 ]
